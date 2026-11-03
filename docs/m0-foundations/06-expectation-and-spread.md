@@ -113,9 +113,16 @@ def spread(outcomes, probs):
 跑三份方案：
 
 ```python
-print(expectation([12000], [1.0]),              spread([12000], [1.0]))
-print(expectation([15000, 7500], [0.6, 0.4]),   spread([15000, 7500], [0.6, 0.4]))
-print(expectation([20000, 8000], [0.5, 0.5]),   spread([20000, 8000], [0.5, 0.5]))
+offers = [
+    ("A 铁饭碗", [12000], [1.0]),
+    ("B 高提成", [15000, 7500], [0.6, 0.4]),
+    ("C 大起大落", [20000, 8000], [0.5, 0.5]),
+]
+
+for name, outcomes, probs in offers:
+    m = expectation(outcomes, probs)
+    s = spread(outcomes, probs)
+    print(f"{name}：长期每月 {m:.0f}，脾气 ±{s:.0f}")
 ```
 
 我这台机器的输出：
