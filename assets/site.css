@@ -1,0 +1,145 @@
+/* GitHub Pages 版式：为手机阅读优化，正文与仓库里的 Markdown 是同一份内容。 */
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC",
+               "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", sans-serif;
+  font-size: 17px;
+  line-height: 1.85;
+  color: #20262b;
+  background: #fff;
+}
+
+.site-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .5rem .9rem;
+  padding: .75rem 1rem;
+  border-bottom: 1px solid #e3e8ee;
+  background: #f7f9fb;
+}
+
+.site-head .brand {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #12385c;
+  text-decoration: none;
+}
+
+.badge {
+  font-size: .78rem;
+  line-height: 1.5;
+  color: #6b3010;
+  background: #fdf0e2;
+  border: 1px solid #f3d8bb;
+  border-radius: 999px;
+  padding: .12rem .6rem;
+}
+
+.page {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 1.2rem 1rem 2.5rem;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.4;
+  font-weight: 700;
+  margin: 1.8em 0 .7em;
+  letter-spacing: .01em;
+}
+
+h1 { font-size: 1.5rem; margin-top: .3em; }
+h2 { font-size: 1.22rem; border-bottom: 1px solid #e3e8ee; padding-bottom: .3rem; }
+h3 { font-size: 1.06rem; }
+
+p, li { overflow-wrap: anywhere; }
+
+a { color: #1461a8; }
+
+strong { color: #111; }
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: .88em;
+  background: #f2f4f7;
+  padding: .1em .35em;
+  border-radius: 4px;
+  overflow-wrap: anywhere;
+}
+
+pre {
+  background: #f6f8fa;
+  border: 1px solid #e6e9ee;
+  border-radius: 8px;
+  padding: .8rem .9rem;
+  overflow-x: auto;
+  line-height: 1.6;
+  font-size: .84rem;
+}
+
+pre code { background: none; padding: 0; font-size: 1em; }
+
+blockquote {
+  margin: 1.2rem 0;
+  padding: .1rem 0 .1rem .9rem;
+  border-left: 3px solid #cfd8e2;
+  color: #44505c;
+  background: #fafbfc;
+}
+
+.table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 1.3rem 0; }
+
+table { border-collapse: collapse; width: max-content; min-width: 100%; font-size: .9rem; }
+
+th, td {
+  border: 1px solid #dfe4ea;
+  padding: .45rem .6rem;
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.6;
+}
+
+th { background: #eef2f6; font-weight: 700; white-space: nowrap; }
+
+tr:nth-child(even) td { background: #fafbfc; }
+
+img, svg { max-width: 100%; height: auto; }
+
+hr { border: 0; border-top: 1px solid #e3e8ee; margin: 2rem 0; }
+
+mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; }
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: .9rem 1rem;
+  border-top: 1px solid #e3e8ee;
+  font-size: .92rem;
+}
+
+.pager a { text-decoration: none; font-weight: 600; }
+.pager .next { margin-left: auto; }
+
+.site-foot {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 1rem 1rem 2.5rem;
+  font-size: .82rem;
+  line-height: 1.7;
+  color: #5b6773;
+  border-top: 1px solid #eef1f5;
+}
+
+@media (max-width: 380px) {
+  body { font-size: 16px; }
+  h1 { font-size: 1.32rem; }
+}

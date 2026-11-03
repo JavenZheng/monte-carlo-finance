@@ -1,0 +1,27 @@
+title: 蒙特卡洛与金融工程 · 零基础职场人版
+description: 写给不写代码、没学过概率统计的职场人的 15 节课，终点是能独立翻开 Glasserman 的《Monte Carlo Methods in Financial Engineering》。
+baseurl: "/monte-carlo-finance"
+url: "https://javenzheng.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_block_line_spacing: 1.4
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - README.md
+  - LICENSE.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"

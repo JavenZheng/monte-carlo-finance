@@ -1,3 +1,8 @@
+---
+title: 课程总览
+permalink: /index.html
+---
+
 # 蒙特卡洛与金融工程 · 零基础职场人版
 
 **系列**：`quant-for-office-workers` ｜ **仓库**：`monte-carlo-finance`
@@ -60,9 +65,23 @@ Paul Glasserman 的 *Monte Carlo Methods in Financial Engineering*（Springer, 2
 
 **[第 12 课（条件期望）](docs/m0-foundations/12-conditioning-and-control.md)是整个第一期的最高点**，也是原书控制变量与条件模拟技术的直接伏笔。**[第 15 课（布朗运动）](docs/m0-foundations/15-brownian-motion.md)收尾**——它一结束，原书第一部分（第 1–3 章）对你就是"可读"状态。
 
-### 后续（规划中，不在第一期）
+### 后续：第二期（制作中，还没有课文）
 
-按原书真实结构走：`M1 随机数与随机变量`(ch2) → `M2 样本路径的生成`(ch3) → `M3 方差缩减`(ch4，全书心脏) → `M4 准蒙特卡洛`(ch5) → `M5 离散化方法`(ch6) → `M6 敏感性估计 Greeks`(ch7) → `M7 美式期权定价`(ch8) → `M8 风险管理：在险价值与信用风险`(ch9) → 附录 A/B/C 的数学准备。
+按原书真实结构走。**下面每一个模块目前都还没有内容**，你在本仓库能读到的只有上面第一期那 15 课。
+
+| 模块 | 对应原书 | 状态 |
+|---|---|---|
+| M1 随机数与随机变量 | ch2 | 未开始 |
+| M2 样本路径的生成 | ch3 | 未开始 |
+| M3 方差缩减（全书心脏） | ch4 | 未开始 |
+| M4 准蒙特卡洛 | ch5 | 未开始 |
+| M5 离散化方法 | ch6 | 未开始 |
+| M6 敏感性估计 Greeks | ch7 | 未开始 |
+| M7 美式期权定价 | ch8 | 未开始 |
+| M8 风险管理：在险价值与信用风险 | ch9 | 未开始 |
+| 附录 A/B/C 的数学准备 | 附录 | 未开始 |
+
+第一期内部还有一件没做完的事：配套 notebook **只有第 04 课已就绪**，其余各课逐课补齐中。在那之前，课文里的代码请直接看 `code/` 里对应的 `.py`——它们设计成整段粘进浏览器（Colab / JupyterLite）也能跑。
 
 ---
 
@@ -113,7 +132,7 @@ python3 code/fig15_endpoint_vs_path.py   # → assets/fig15_endpoint_vs_path.svg
 python3 code/fig15_monitoring.py         # → assets/fig15_monitoring.svg
 ```
 
-这些出图脚本是**作者的工具**，不是课程内容；读者打开 `assets/` 里现成的图就够了。
+这些出图脚本是**作者的工具**，不是课程内容；读者打开 `assets/` 里现成的图就够了。第 01–03 课是工具课，手上还没有可实测的数据可画，所以那三节刻意不出图。
 
 需要 Python 3.10+。装不装都不影响你跟着课程走。
 
@@ -161,6 +180,7 @@ notebooks/              浏览器可直接跑的配套 notebook
 assets/                 自绘图（一律由脚本生成）
 glossary.md             术语中英对照 + 符号词典
 LICENSE.md              双许可条款（正文 CC BY-NC-SA 4.0 / 代码 MIT）
+_config.yml、_layouts/  GitHub Pages 站点配置与手机版式（只影响在线阅读，不影响课文本身）
 ```
 
 ---
