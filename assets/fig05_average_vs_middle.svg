@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" font-family="system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<rect width="800" height="480" fill="#ffffff"/>
+<text x="26" y="30" font-size="19" font-weight="600" fill="#1a1a1a">同一个"平均"，三组数说的是三句话</text>
+<text x="26" y="50" font-size="12.5" fill="#7a7a7a">每条记录钉在横轴上；蓝实线＝平均，黑虚线＝排在中间那条，橙色那一块＝低于平均的那几条</text>
+<rect x="64.0" y="108.0" width="217.3" height="58.0" fill="#c2410c" opacity="0.06"/>
+<polyline points="64.0,137.0 774.0,137.0" fill="none" stroke="#d8d8d8" stroke-width="1.2" opacity="1.0" stroke-linejoin="round"/>
+<line x1="90.5" y1="166.0" x2="90.5" y2="170.0" stroke="#c8c8c8"/>
+<text x="90.5" y="183.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">500</text>
+<line x1="200.7" y1="166.0" x2="200.7" y2="170.0" stroke="#c8c8c8"/>
+<text x="200.7" y="183.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">1,000</text>
+<line x1="421.2" y1="166.0" x2="421.2" y2="170.0" stroke="#c8c8c8"/>
+<text x="421.2" y="183.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">2,000</text>
+<line x1="641.7" y1="166.0" x2="641.7" y2="170.0" stroke="#c8c8c8"/>
+<text x="641.7" y="183.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">3,000</text>
+<circle cx="161.0" cy="137.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="244.8" cy="137.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="729.9" cy="137.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="114.7" cy="137.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="189.7" cy="137.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="443.3" cy="137.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="86.0" cy="137.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<line x1="281.3" y1="111.5" x2="281.3" y2="162.5" stroke="#2f6fb0" stroke-width="2.2"/>
+<line x1="189.7" y1="111.5" x2="189.7" y2="162.5" stroke="#1a1a1a" stroke-width="1.8" stroke-dasharray="5 3"/>
+<text x="64.0" y="98.0" font-size="13" fill="#1a1a1a" text-anchor="start">你的七条内容（播放量）</text>
+<text x="774.0" y="98.0" font-size="12.5" fill="#454545" text-anchor="end">平均 1365.7次　中间那条 950次　低于平均 71%</text>
+<rect x="64.0" y="214.0" width="365.9" height="58.0" fill="#c2410c" opacity="0.06"/>
+<polyline points="64.0,243.0 774.0,243.0" fill="none" stroke="#d8d8d8" stroke-width="1.2" opacity="1.0" stroke-linejoin="round"/>
+<line x1="145.9" y1="272.0" x2="145.9" y2="276.0" stroke="#c8c8c8"/>
+<text x="145.9" y="289.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">25</text>
+<line x1="282.5" y1="272.0" x2="282.5" y2="276.0" stroke="#c8c8c8"/>
+<text x="282.5" y="289.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">30</text>
+<line x1="419.0" y1="272.0" x2="419.0" y2="276.0" stroke="#c8c8c8"/>
+<text x="419.0" y="289.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">35</text>
+<line x1="555.5" y1="272.0" x2="555.5" y2="276.0" stroke="#c8c8c8"/>
+<text x="555.5" y="289.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">40</text>
+<line x1="692.1" y1="272.0" x2="692.1" y2="276.0" stroke="#c8c8c8"/>
+<text x="692.1" y="289.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">45</text>
+<circle cx="391.7" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="582.8" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="255.2" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="500.9" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="692.1" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="309.8" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="473.6" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="555.5" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="173.2" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="364.4" cy="243.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<line x1="429.9" y1="217.5" x2="429.9" y2="268.5" stroke="#2f6fb0" stroke-width="2.2"/>
+<line x1="473.6" y1="217.5" x2="473.6" y2="268.5" stroke="#1a1a1a" stroke-width="1.8" stroke-dasharray="5 3"/>
+<text x="64.0" y="204.0" font-size="13" fill="#1a1a1a" text-anchor="start">你十天的通勤（分钟）</text>
+<text x="774.0" y="204.0" font-size="12.5" fill="#454545" text-anchor="end">平均 35.4分钟　中间那条 37分钟　低于平均 50%</text>
+<rect x="64.0" y="320.0" width="161.8" height="58.0" fill="#c2410c" opacity="0.06"/>
+<polyline points="64.0,349.0 774.0,349.0" fill="none" stroke="#d8d8d8" stroke-width="1.2" opacity="1.0" stroke-linejoin="round"/>
+<line x1="84.9" y1="378.0" x2="84.9" y2="382.0" stroke="#c8c8c8"/>
+<text x="84.9" y="395.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">0</text>
+<line x1="189.3" y1="378.0" x2="189.3" y2="382.0" stroke="#c8c8c8"/>
+<text x="189.3" y="395.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">5</text>
+<line x1="293.7" y1="378.0" x2="293.7" y2="382.0" stroke="#c8c8c8"/>
+<text x="293.7" y="395.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">10</text>
+<line x1="398.1" y1="378.0" x2="398.1" y2="382.0" stroke="#c8c8c8"/>
+<text x="398.1" y="395.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">15</text>
+<line x1="502.5" y1="378.0" x2="502.5" y2="382.0" stroke="#c8c8c8"/>
+<text x="502.5" y="395.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">20</text>
+<line x1="606.9" y1="378.0" x2="606.9" y2="382.0" stroke="#c8c8c8"/>
+<text x="606.9" y="395.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">25</text>
+<line x1="711.4" y1="378.0" x2="711.4" y2="382.0" stroke="#c8c8c8"/>
+<text x="711.4" y="395.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">30</text>
+<circle cx="147.5" cy="349.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="189.3" cy="349.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="126.6" cy="349.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="168.4" cy="349.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="711.4" cy="349.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="147.5" cy="349.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="126.6" cy="349.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<circle cx="189.3" cy="349.0" r="5.4" fill="#2f6fb0" opacity="0.85"/>
+<line x1="225.8" y1="323.5" x2="225.8" y2="374.5" stroke="#2f6fb0" stroke-width="2.2"/>
+<line x1="168.4" y1="323.5" x2="168.4" y2="374.5" stroke="#1a1a1a" stroke-width="1.8" stroke-dasharray="5 3"/>
+<text x="64.0" y="310.0" font-size="13" fill="#1a1a1a" text-anchor="start">你八次打车的等车时间</text>
+<text x="774.0" y="310.0" font-size="12.5" fill="#454545" text-anchor="end">平均 6.8分钟　中间那条 4分钟　低于平均 88%</text>
+<text x="58.0" y="418.0" font-size="12.5" fill="#454545" text-anchor="start">第一组和第三组：蓝线被右边那一条拽走了，黑虚线还站在人堆里——低于平均占七十一和八十八。</text>
+<text x="58.0" y="438.0" font-size="12.5" fill="#454545" text-anchor="start">那个平均描述的是这一列的总量，不是你典型的一次。</text>
+<text x="58.0" y="458.0" font-size="12.5" fill="#1a7f5f" text-anchor="start">第二组：两条线几乎重合、低于平均正好五成——这组数老老实实，"我通勤平均三十五分钟"可以放心说出口。</text>
+</svg>

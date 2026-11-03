@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" font-family="system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<rect width="800" height="500" fill="#ffffff"/>
+<text x="26" y="30" font-size="19" font-weight="600" fill="#1a1a1a">三份 offer：期望一样，脾气不一样，落到你身上更不一样</text>
+<text x="26" y="50" font-size="12.5" fill="#7a7a7a">圆是可能的结果，圆越大代表那种月份越常；橙实线＝掺出来的期望，灰括号＝脾气（离期望一般多远）</text>
+<circle cx="379.6" cy="141.0" r="26.0" fill="#2f6fb0" opacity="0.5"/>
+<text x="379.6" y="145.0" font-size="12.5" fill="#12385c" text-anchor="middle">12,000</text>
+<line x1="379.6" y1="107.7" x2="379.6" y2="174.3" stroke="#c2410c" stroke-width="2.6"/>
+<circle cx="379.6" cy="141.0" r="3.4" fill="#c2410c" opacity="1.0"/>
+<text x="64.0" y="94.0" font-size="13" fill="#1a1a1a" text-anchor="start">A 铁饭碗</text>
+<text x="774.0" y="94.0" font-size="12.5" fill="#454545" text-anchor="end">长期每月 12,000　脾气 ±0</text>
+<polyline points="234.6,233.0 524.5,233.0" fill="none" stroke="#8a8a8a" stroke-width="1.6" opacity="1.0" stroke-linejoin="round"/>
+<line x1="234.6" y1="224.1" x2="234.6" y2="241.9" stroke="#8a8a8a" stroke-width="1.6"/>
+<line x1="524.5" y1="224.1" x2="524.5" y2="241.9" stroke="#8a8a8a" stroke-width="1.6"/>
+<circle cx="497.9" cy="233.0" r="20.139513400278567" fill="#2f6fb0" opacity="0.5"/>
+<text x="497.9" y="237.0" font-size="12.5" fill="#12385c" text-anchor="middle">15,000</text>
+<text x="497.9" y="255.0" font-size="11.5" fill="#454545" text-anchor="middle">6 成的月份</text>
+<circle cx="202.1" cy="233.0" r="16.443843832875572" fill="#2f6fb0" opacity="0.5"/>
+<text x="202.1" y="237.0" font-size="12.5" fill="#12385c" text-anchor="middle">7,500</text>
+<text x="202.1" y="255.0" font-size="11.5" fill="#454545" text-anchor="middle">4 成的月份</text>
+<line x1="379.6" y1="199.7" x2="379.6" y2="266.3" stroke="#c2410c" stroke-width="2.6"/>
+<circle cx="379.6" cy="233.0" r="3.4" fill="#c2410c" opacity="1.0"/>
+<text x="64.0" y="186.0" font-size="13" fill="#1a1a1a" text-anchor="start">B 高提成</text>
+<text x="774.0" y="186.0" font-size="12.5" fill="#454545" text-anchor="end">长期每月 12,000　脾气 ±3,674</text>
+<polyline points="221.8,325.0 695.1,325.0" fill="none" stroke="#8a8a8a" stroke-width="1.6" opacity="1.0" stroke-linejoin="round"/>
+<line x1="221.8" y1="316.1" x2="221.8" y2="333.9" stroke="#8a8a8a" stroke-width="1.6"/>
+<line x1="695.1" y1="316.1" x2="695.1" y2="333.9" stroke="#8a8a8a" stroke-width="1.6"/>
+<circle cx="695.1" cy="325.0" r="18.38477631085024" fill="#2f6fb0" opacity="0.5"/>
+<text x="695.1" y="329.0" font-size="12.5" fill="#12385c" text-anchor="middle">20,000</text>
+<text x="695.1" y="347.0" font-size="11.5" fill="#454545" text-anchor="middle">5 成的月份</text>
+<circle cx="221.8" cy="325.0" r="18.38477631085024" fill="#2f6fb0" opacity="0.5"/>
+<text x="221.8" y="329.0" font-size="12.5" fill="#12385c" text-anchor="middle">8,000</text>
+<text x="221.8" y="347.0" font-size="11.5" fill="#454545" text-anchor="middle">5 成的月份</text>
+<line x1="458.4" y1="291.7" x2="458.4" y2="358.3" stroke="#c2410c" stroke-width="2.6"/>
+<circle cx="458.4" cy="325.0" r="3.4" fill="#c2410c" opacity="1.0"/>
+<text x="64.0" y="278.0" font-size="13" fill="#1a1a1a" text-anchor="start">C 大起大落</text>
+<text x="774.0" y="278.0" font-size="12.5" fill="#454545" text-anchor="end">长期每月 14,000　脾气 ±6,000</text>
+<line x1="103.4" y1="362.0" x2="103.4" y2="366.0" stroke="#c8c8c8"/>
+<text x="103.4" y="379.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">5,000</text>
+<line x1="300.7" y1="362.0" x2="300.7" y2="366.0" stroke="#c8c8c8"/>
+<text x="300.7" y="379.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">10,000</text>
+<line x1="497.9" y1="362.0" x2="497.9" y2="366.0" stroke="#c8c8c8"/>
+<text x="497.9" y="379.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">15,000</text>
+<line x1="695.1" y1="362.0" x2="695.1" y2="366.0" stroke="#c8c8c8"/>
+<text x="695.1" y="379.0" font-size="10.5" fill="#8a8a8a" text-anchor="middle">20,000</text>
+<line x1="261.2" y1="100.0" x2="261.2" y2="362.0" stroke="#b91c1c" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="253.2" y="118.0" font-size="12.5" fill="#b91c1c" text-anchor="end">每月固定支出 9,000</text>
+<text x="58.0" y="434.0" font-size="12.5" fill="#454545" text-anchor="start">橙线是"掺很多遍之后每次摊到的数"，它常常不在任何一个可能的月份上：B 的期望 12000 那一格，一个月都不会出现。</text>
+<text x="58.0" y="454.0" font-size="12.5" fill="#454545" text-anchor="start">A 和 B 的橙线落在同一条竖线上，脾气一个 ±0、一个 ±3674。期望相同，人生不同——这就是第二个数存在的理由。</text>
+<text x="58.0" y="474.0" font-size="12.5" fill="#b91c1c" text-anchor="start">红虚线才是生活：固定支出 9000。B 有四成的月份落在它左边，C 有一半。期望看不见这件事。</text>
+</svg>

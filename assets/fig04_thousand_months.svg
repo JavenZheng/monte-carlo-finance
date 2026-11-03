@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="424" viewBox="0 0 800 424" font-family="system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<rect width="800" height="424" fill="#ffffff"/>
+<text x="26" y="30" font-size="19" font-weight="600" fill="#1a1a1a">一千个还没发生过的月</text>
+<text x="26" y="50" font-size="12.5" fill="#7a7a7a">每天 25 到 55 元、22 个工作日，把这台机器开一千次。横轴：这个月的总额；纵轴：这样的月有几个。</text>
+<rect x="62.0" y="96.0" width="712.0" height="200.0" fill="none" stroke="#d8d8d8"/>
+<line x1="131.7" y1="96.0" x2="131.7" y2="296.0" stroke="#ededed"/>
+<text x="131.7" y="314.0" font-size="11" fill="#5a5a5a" text-anchor="middle">750</text>
+<line x1="256.2" y1="96.0" x2="256.2" y2="296.0" stroke="#ededed"/>
+<text x="256.2" y="314.0" font-size="11" fill="#5a5a5a" text-anchor="middle">800</text>
+<line x1="380.7" y1="96.0" x2="380.7" y2="296.0" stroke="#ededed"/>
+<text x="380.7" y="314.0" font-size="11" fill="#5a5a5a" text-anchor="middle">850</text>
+<line x1="505.1" y1="96.0" x2="505.1" y2="296.0" stroke="#ededed"/>
+<text x="505.1" y="314.0" font-size="11" fill="#5a5a5a" text-anchor="middle">900</text>
+<line x1="629.6" y1="96.0" x2="629.6" y2="296.0" stroke="#ededed"/>
+<text x="629.6" y="314.0" font-size="11" fill="#5a5a5a" text-anchor="middle">950</text>
+<line x1="754.1" y1="96.0" x2="754.1" y2="296.0" stroke="#ededed"/>
+<text x="754.1" y="314.0" font-size="11" fill="#5a5a5a" text-anchor="middle">1000</text>
+<line x1="62.0" y1="296.0" x2="774.0" y2="296.0" stroke="#ededed"/>
+<text x="54.0" y="300.0" font-size="11" fill="#5a5a5a" text-anchor="end">0</text>
+<line x1="62.0" y1="252.4" x2="774.0" y2="252.4" stroke="#ededed"/>
+<text x="54.0" y="256.4" font-size="11" fill="#5a5a5a" text-anchor="end">30</text>
+<line x1="62.0" y1="208.9" x2="774.0" y2="208.9" stroke="#ededed"/>
+<text x="54.0" y="212.9" font-size="11" fill="#5a5a5a" text-anchor="end">60</text>
+<line x1="62.0" y1="165.3" x2="774.0" y2="165.3" stroke="#ededed"/>
+<text x="54.0" y="169.3" font-size="11" fill="#5a5a5a" text-anchor="end">90</text>
+<line x1="62.0" y1="121.8" x2="774.0" y2="121.8" stroke="#ededed"/>
+<text x="54.0" y="125.8" font-size="11" fill="#5a5a5a" text-anchor="end">120</text>
+<rect x="325.9" y="96.0" width="259.8" height="200.0" fill="#2f6fb0" opacity="0.07"/>
+<rect x="82.9" y="294.5" width="22.9" height="1.5" fill="#2f6fb0" opacity="0.72"/>
+<rect x="107.8" y="296.0" width="22.9" height="0.0" fill="#2f6fb0" opacity="0.72"/>
+<rect x="132.7" y="294.5" width="22.9" height="1.5" fill="#2f6fb0" opacity="0.72"/>
+<rect x="157.6" y="293.1" width="22.9" height="2.9" fill="#2f6fb0" opacity="0.72"/>
+<rect x="182.5" y="290.2" width="22.9" height="5.8" fill="#2f6fb0" opacity="0.72"/>
+<rect x="207.4" y="285.8" width="22.9" height="10.2" fill="#2f6fb0" opacity="0.72"/>
+<rect x="232.3" y="285.8" width="22.9" height="10.2" fill="#2f6fb0" opacity="0.72"/>
+<rect x="257.2" y="272.8" width="22.9" height="23.2" fill="#2f6fb0" opacity="0.72"/>
+<rect x="282.1" y="251.0" width="22.9" height="45.0" fill="#2f6fb0" opacity="0.72"/>
+<rect x="307.0" y="224.9" width="22.9" height="71.1" fill="#2f6fb0" opacity="0.72"/>
+<rect x="331.9" y="217.6" width="22.9" height="78.4" fill="#2f6fb0" opacity="0.72"/>
+<rect x="356.8" y="191.5" width="22.9" height="104.5" fill="#2f6fb0" opacity="0.72"/>
+<rect x="381.7" y="179.8" width="22.9" height="116.2" fill="#2f6fb0" opacity="0.72"/>
+<rect x="406.6" y="155.2" width="22.9" height="140.8" fill="#2f6fb0" opacity="0.72"/>
+<rect x="431.4" y="161.0" width="22.9" height="135.0" fill="#2f6fb0" opacity="0.72"/>
+<rect x="456.3" y="165.3" width="22.9" height="130.7" fill="#2f6fb0" opacity="0.72"/>
+<rect x="481.2" y="159.5" width="22.9" height="136.5" fill="#2f6fb0" opacity="0.72"/>
+<rect x="506.1" y="204.5" width="22.9" height="91.5" fill="#2f6fb0" opacity="0.72"/>
+<rect x="531.0" y="192.9" width="22.9" height="103.1" fill="#2f6fb0" opacity="0.72"/>
+<rect x="555.9" y="217.6" width="22.9" height="78.4" fill="#2f6fb0" opacity="0.72"/>
+<rect x="580.8" y="230.7" width="22.9" height="65.3" fill="#2f6fb0" opacity="0.72"/>
+<rect x="605.7" y="249.5" width="22.9" height="46.5" fill="#2f6fb0" opacity="0.72"/>
+<rect x="630.6" y="277.1" width="22.9" height="18.9" fill="#2f6fb0" opacity="0.72"/>
+<rect x="655.5" y="281.5" width="22.9" height="14.5" fill="#2f6fb0" opacity="0.72"/>
+<rect x="680.4" y="280.0" width="22.9" height="16.0" fill="#2f6fb0" opacity="0.72"/>
+<rect x="705.3" y="294.5" width="22.9" height="1.5" fill="#2f6fb0" opacity="0.72"/>
+<rect x="730.2" y="293.1" width="22.9" height="2.9" fill="#2f6fb0" opacity="0.72"/>
+<line x1="99.1" y1="100.0" x2="99.1" y2="296.0" stroke="#8a8a8a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="106.1" y="116.0" font-size="12.5" fill="#8a8a8a" text-anchor="start">最省 737</text>
+<line x1="325.9" y1="100.0" x2="325.9" y2="296.0" stroke="#2f6fb0" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="332.9" y="138.0" font-size="12.5" fill="#2f6fb0" text-anchor="start">一成的月低于 828</text>
+<line x1="453.0" y1="100.0" x2="453.0" y2="296.0" stroke="#c2410c" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="446.0" y="116.0" font-size="12.5" fill="#c2410c" text-anchor="end">平均 879</text>
+<line x1="585.8" y1="100.0" x2="585.8" y2="296.0" stroke="#2f6fb0" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="578.8" y="160.0" font-size="12.5" fill="#2f6fb0" text-anchor="end">九成的月不超过 932</text>
+<line x1="753.1" y1="100.0" x2="753.1" y2="296.0" stroke="#8a8a8a" stroke-width="1.6" stroke-dasharray="5 4"/>
+<text x="746.1" y="116.0" font-size="12.5" fill="#8a8a8a" text-anchor="end">最贵 1000</text>
+<text x="62.0" y="342.0" font-size="12.5" fill="#454545" text-anchor="start">这一千个月都没发生过，但你记录了它们：最省 737、最贵 1000、平均 879。</text>
+<text x="62.0" y="366.0" font-size="12.5" fill="#454545" text-anchor="start">把中间那八成圈出来（图上那块淡蓝）：一成的月低于 828，九成的月不超过 932。</text>
+<text x="62.0" y="390.0" font-size="12" fill="#7a7a7a" text-anchor="start">两头各只有一千分之一，换一次种子就飘；中间那几根线（一成、平均、九成）几乎不动。</text>
+</svg>

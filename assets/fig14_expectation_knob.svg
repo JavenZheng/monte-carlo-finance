@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="26" y="30" font-size="19" font-weight="600" fill="#1a1a1a">同一份合同，只换"你预期的涨幅"，报价能走三倍</text>
+<text x="26" y="50" font-size="12.5" fill="#7a7a7a">一份"一年后按 100 买入"的权利（行权价 100、起价 100、年化起伏 20%、一年期）；各抽 20 万遍（种子 7）</text>
+<line x1="64.0" y1="320.0" x2="774.0" y2="320.0" stroke="#ededed"/>
+<text x="56.0" y="324.0" font-size="11" fill="#5a5a5a" text-anchor="end">0</text>
+<line x1="64.0" y1="278.3" x2="774.0" y2="278.3" stroke="#ededed"/>
+<text x="56.0" y="282.3" font-size="11" fill="#5a5a5a" text-anchor="end">5</text>
+<line x1="64.0" y1="236.6" x2="774.0" y2="236.6" stroke="#ededed"/>
+<text x="56.0" y="240.6" font-size="11" fill="#5a5a5a" text-anchor="end">10</text>
+<line x1="64.0" y1="194.8" x2="774.0" y2="194.8" stroke="#ededed"/>
+<text x="56.0" y="198.8" font-size="11" fill="#5a5a5a" text-anchor="end">15</text>
+<line x1="64.0" y1="153.1" x2="774.0" y2="153.1" stroke="#ededed"/>
+<text x="56.0" y="157.1" font-size="11" fill="#5a5a5a" text-anchor="end">20</text>
+<line x1="64.0" y1="111.4" x2="774.0" y2="111.4" stroke="#ededed"/>
+<text x="56.0" y="115.4" font-size="11" fill="#5a5a5a" text-anchor="end">25</text>
+<rect x="64.0" y="72.0" width="710.0" height="248.0" fill="none" stroke="#d8d8d8"/>
+<rect x="103.9" y="256.5" width="97.6" height="63.5" fill="#2f6fb0" opacity="0.9"/>
+<text x="152.8" y="244.5" font-size="15" fill="#2f6fb0" text-anchor="middle">7.61</text>
+<text x="152.8" y="340.0" font-size="12.5" fill="#1a1a1a" text-anchor="middle">预期涨 0%</text>
+<text x="152.8" y="358.0" font-size="11" fill="#7a7a7a" text-anchor="middle">你预期它一年纹丝不动</text>
+<rect x="281.4" y="232.5" width="97.6" height="87.5" fill="#1a7f5f" opacity="0.9"/>
+<text x="330.2" y="220.5" font-size="15" fill="#1a7f5f" text-anchor="middle">10.49</text>
+<text x="330.2" y="340.0" font-size="12.5" fill="#1a1a1a" text-anchor="middle">预期涨 5%</text>
+<text x="330.2" y="358.0" font-size="11" fill="#7a7a7a" text-anchor="middle">风险中性口径（该用的）</text>
+<rect x="458.9" y="190.1" width="97.6" height="129.9" fill="#2f6fb0" opacity="0.9"/>
+<text x="507.8" y="178.1" font-size="15" fill="#2f6fb0" text-anchor="middle">15.57</text>
+<text x="507.8" y="340.0" font-size="12.5" fill="#1a1a1a" text-anchor="middle">预期涨 12%</text>
+<text x="507.8" y="358.0" font-size="11" fill="#7a7a7a" text-anchor="middle">你预期一年涨 12%</text>
+<rect x="636.4" y="129.2" width="97.6" height="190.8" fill="#2f6fb0" opacity="0.9"/>
+<text x="685.2" y="117.2" font-size="15" fill="#2f6fb0" text-anchor="middle">22.86</text>
+<text x="685.2" y="340.0" font-size="12.5" fill="#1a1a1a" text-anchor="middle">预期涨 20%</text>
+<text x="685.2" y="358.0" font-size="11" fill="#7a7a7a" text-anchor="middle">你预期一年涨 20%</text>
+<line x1="64.0" y1="232.5" x2="774.0" y2="232.5" stroke="#1a7f5f" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="74.0" y="221.5" font-size="12.5" fill="#1a7f5f" text-anchor="start">只有这一格是价格：它由复制成本给出</text>
+<text x="16" y="196.0" font-size="12.5" fill="#454545" text-anchor="middle" transform="rotate(-90 16 196.0)">这份权利今天值几块</text>
+<text x="64.0" y="386.0" font-size="12.5" fill="#454545" text-anchor="start">合同一个字没改，报价从 7.61 一路走到 22.86（3.0 倍）——变的只是你嘴里那个预期。</text>
+<text x="64.0" y="406.0" font-size="12.5" fill="#c2410c" text-anchor="start">所以"这个预期年化 12%，所以它值这个价"这句话里，那个 12% 是一只可以随便拧的旋钮。</text>
+<text x="64.0" y="426.0" font-size="12.5" fill="#1a7f5f" text-anchor="start">定价的正确问法不是"我觉得多大概率会涨"，而是"要拼出这笔赔付，我今天得花几块"。</text>
+</svg>

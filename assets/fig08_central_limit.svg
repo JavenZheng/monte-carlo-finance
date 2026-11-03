@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480" font-family="system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<rect width="800" height="480" fill="#ffffff"/>
+<text x="26" y="30" font-size="19" font-weight="600" fill="#1a1a1a">两万个"平均"排成钟形，你手上那十天不是</text>
+<text x="26" y="50" font-size="12.5" fill="#7a7a7a">通勤十条（26–45 分钟），每次抽十条取平均、重复 20000 遍（种子 7）　·　实测散布 1.77，公式 σ/√n 给的毛边 1.86</text>
+<line x1="94.9" y1="72.0" x2="94.9" y2="434.0" stroke="#ededed"/>
+<text x="94.9" y="452.0" font-size="11" fill="#5a5a5a" text-anchor="middle">25</text>
+<line x1="187.5" y1="72.0" x2="187.5" y2="434.0" stroke="#ededed"/>
+<text x="187.5" y="452.0" font-size="11" fill="#5a5a5a" text-anchor="middle">28</text>
+<line x1="280.1" y1="72.0" x2="280.1" y2="434.0" stroke="#ededed"/>
+<text x="280.1" y="452.0" font-size="11" fill="#5a5a5a" text-anchor="middle">31</text>
+<line x1="372.7" y1="72.0" x2="372.7" y2="434.0" stroke="#ededed"/>
+<text x="372.7" y="452.0" font-size="11" fill="#5a5a5a" text-anchor="middle">34</text>
+<line x1="465.3" y1="72.0" x2="465.3" y2="434.0" stroke="#ededed"/>
+<text x="465.3" y="452.0" font-size="11" fill="#5a5a5a" text-anchor="middle">37</text>
+<line x1="557.9" y1="72.0" x2="557.9" y2="434.0" stroke="#ededed"/>
+<text x="557.9" y="452.0" font-size="11" fill="#5a5a5a" text-anchor="middle">40</text>
+<line x1="650.5" y1="72.0" x2="650.5" y2="434.0" stroke="#ededed"/>
+<text x="650.5" y="452.0" font-size="11" fill="#5a5a5a" text-anchor="middle">43</text>
+<line x1="743.1" y1="72.0" x2="743.1" y2="434.0" stroke="#ededed"/>
+<text x="743.1" y="452.0" font-size="11" fill="#5a5a5a" text-anchor="middle">46</text>
+<line x1="64.0" y1="434.0" x2="774.0" y2="434.0" stroke="#ededed"/>
+<text x="56.0" y="438.0" font-size="11" fill="#5a5a5a" text-anchor="end">0</text>
+<line x1="64.0" y1="397.1" x2="774.0" y2="397.1" stroke="#ededed"/>
+<text x="56.0" y="401.1" font-size="11" fill="#5a5a5a" text-anchor="end">500</text>
+<line x1="64.0" y1="360.1" x2="774.0" y2="360.1" stroke="#ededed"/>
+<text x="56.0" y="364.1" font-size="11" fill="#5a5a5a" text-anchor="end">1,000</text>
+<line x1="64.0" y1="323.2" x2="774.0" y2="323.2" stroke="#ededed"/>
+<text x="56.0" y="327.2" font-size="11" fill="#5a5a5a" text-anchor="end">1,500</text>
+<line x1="64.0" y1="286.2" x2="774.0" y2="286.2" stroke="#ededed"/>
+<text x="56.0" y="290.2" font-size="11" fill="#5a5a5a" text-anchor="end">2,000</text>
+<line x1="64.0" y1="249.3" x2="774.0" y2="249.3" stroke="#ededed"/>
+<text x="56.0" y="253.3" font-size="11" fill="#5a5a5a" text-anchor="end">2,500</text>
+<line x1="64.0" y1="212.3" x2="774.0" y2="212.3" stroke="#ededed"/>
+<text x="56.0" y="216.3" font-size="11" fill="#5a5a5a" text-anchor="end">3,000</text>
+<line x1="64.0" y1="175.4" x2="774.0" y2="175.4" stroke="#ededed"/>
+<text x="56.0" y="179.4" font-size="11" fill="#5a5a5a" text-anchor="end">3,500</text>
+<line x1="64.0" y1="138.5" x2="774.0" y2="138.5" stroke="#ededed"/>
+<text x="56.0" y="142.5" font-size="11" fill="#5a5a5a" text-anchor="end">4,000</text>
+<line x1="64.0" y1="101.5" x2="774.0" y2="101.5" stroke="#ededed"/>
+<text x="56.0" y="105.5" font-size="11" fill="#5a5a5a" text-anchor="end">4,500</text>
+<rect x="64.0" y="72.0" width="710.0" height="362.0" fill="none" stroke="#d8d8d8"/>
+<rect x="65.2" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<rect x="94.8" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<rect x="124.4" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<rect x="154.0" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<rect x="183.5" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<rect x="213.1" y="433.2" width="27.2" height="0.8" fill="#2f6fb0" opacity="0.9"/>
+<rect x="242.7" y="429.1" width="27.2" height="4.9" fill="#2f6fb0" opacity="0.9"/>
+<rect x="272.3" y="412.7" width="27.2" height="21.3" fill="#2f6fb0" opacity="0.9"/>
+<rect x="301.9" y="370.2" width="27.2" height="63.8" fill="#2f6fb0" opacity="0.9"/>
+<rect x="331.5" y="303.7" width="27.2" height="130.3" fill="#2f6fb0" opacity="0.9"/>
+<rect x="361.0" y="182.4" width="27.2" height="251.6" fill="#2f6fb0" opacity="0.9"/>
+<rect x="390.6" y="148.6" width="27.2" height="285.4" fill="#2f6fb0" opacity="0.9"/>
+<rect x="420.2" y="127.2" width="27.2" height="306.8" fill="#2f6fb0" opacity="0.9"/>
+<rect x="449.8" y="203.6" width="27.2" height="230.4" fill="#2f6fb0" opacity="0.9"/>
+<rect x="479.4" y="321.1" width="27.2" height="112.9" fill="#2f6fb0" opacity="0.9"/>
+<rect x="509.0" y="380.7" width="27.2" height="53.3" fill="#2f6fb0" opacity="0.9"/>
+<rect x="538.5" y="421.2" width="27.2" height="12.8" fill="#2f6fb0" opacity="0.9"/>
+<rect x="568.1" y="430.9" width="27.2" height="3.1" fill="#2f6fb0" opacity="0.9"/>
+<rect x="597.7" y="433.6" width="27.2" height="0.4" fill="#2f6fb0" opacity="0.9"/>
+<rect x="627.3" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<rect x="656.9" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<rect x="686.5" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<rect x="716.0" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<rect x="745.6" y="434.0" width="27.2" height="0.0" fill="#2f6fb0" opacity="0.9"/>
+<line x1="372.7" y1="434.0" x2="372.7" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="588.8" y1="434.0" x2="588.8" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="218.3" y1="434.0" x2="218.3" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="496.2" y1="434.0" x2="496.2" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="712.3" y1="434.0" x2="712.3" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="280.1" y1="434.0" x2="280.1" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="465.3" y1="434.0" x2="465.3" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="557.9" y1="434.0" x2="557.9" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="125.7" y1="434.0" x2="125.7" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="341.8" y1="434.0" x2="341.8" y2="408.7" stroke="#c2410c" stroke-width="2.0" opacity="0.85"/>
+<line x1="415.9" y1="72.0" x2="415.9" y2="434.0" stroke="#1a1a1a" stroke-width="1.6"/>
+<line x1="358.6" y1="72.0" x2="358.6" y2="434.0" stroke="#7a7a7a" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="473.2" y1="72.0" x2="473.2" y2="434.0" stroke="#7a7a7a" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="301.3" y1="72.0" x2="301.3" y2="434.0" stroke="#7a7a7a" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="530.6" y1="72.0" x2="530.6" y2="434.0" stroke="#7a7a7a" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="421.9" y="88.0" font-size="13" fill="#1a1a1a" text-anchor="start">平均 35.4 分钟</text>
+<text x="78.0" y="94.0" font-size="12.5" fill="#454545" text-anchor="start">±1 倍毛边（±1.9 分钟）之内 70.2%</text>
+<text x="78.0" y="112.0" font-size="12.5" fill="#454545" text-anchor="start">±2 倍毛边（±3.7 分钟）之内 96.6%</text>
+<text x="78.0" y="130.0" font-size="12.5" fill="#c2410c" text-anchor="start">橙竖线＝原始那十条，散在 26 到 45</text>
+<text x="419.0" y="470" font-size="12.5" fill="#454545" text-anchor="middle">一个"十天"的平均（分钟）</text>
+<text x="16" y="253.0" font-size="12.5" fill="#454545" text-anchor="middle" transform="rotate(-90 16 253.0)">两万条平均里，落在这一档的有几条</text>
+</svg>

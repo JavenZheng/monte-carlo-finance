@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="470" viewBox="0 0 780 470" font-family="system-ui, -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<rect width="780" height="470" fill="#ffffff"/>
+<text x="26" y="30" font-size="19" font-weight="600" fill="#1a1a1a">毛边只按 1/√条数 往下走</text>
+<text x="26" y="50" font-size="12.5" fill="#7a7a7a">十条通勤记录，平均 35.4 分钟，单次起伏 σ = 5.9 分钟　·　每个条数都真抽 4000 遍（种子 7）</text>
+<line x1="74.3" y1="72.0" x2="74.3" y2="424.0" stroke="#ededed"/>
+<text x="74.3" y="442.0" font-size="11" fill="#5a5a5a" text-anchor="middle">1</text>
+<line x1="143.0" y1="72.0" x2="143.0" y2="424.0" stroke="#ededed"/>
+<text x="143.0" y="442.0" font-size="11" fill="#5a5a5a" text-anchor="middle">5</text>
+<line x1="228.8" y1="72.0" x2="228.8" y2="424.0" stroke="#ededed"/>
+<text x="228.8" y="442.0" font-size="11" fill="#5a5a5a" text-anchor="middle">10</text>
+<line x1="314.6" y1="72.0" x2="314.6" y2="424.0" stroke="#ededed"/>
+<text x="314.6" y="442.0" font-size="11" fill="#5a5a5a" text-anchor="middle">15</text>
+<line x1="400.4" y1="72.0" x2="400.4" y2="424.0" stroke="#ededed"/>
+<text x="400.4" y="442.0" font-size="11" fill="#5a5a5a" text-anchor="middle">20</text>
+<line x1="486.2" y1="72.0" x2="486.2" y2="424.0" stroke="#ededed"/>
+<text x="486.2" y="442.0" font-size="11" fill="#5a5a5a" text-anchor="middle">25</text>
+<line x1="572.1" y1="72.0" x2="572.1" y2="424.0" stroke="#ededed"/>
+<text x="572.1" y="442.0" font-size="11" fill="#5a5a5a" text-anchor="middle">30</text>
+<line x1="657.9" y1="72.0" x2="657.9" y2="424.0" stroke="#ededed"/>
+<text x="657.9" y="442.0" font-size="11" fill="#5a5a5a" text-anchor="middle">35</text>
+<line x1="743.7" y1="72.0" x2="743.7" y2="424.0" stroke="#ededed"/>
+<text x="743.7" y="442.0" font-size="11" fill="#5a5a5a" text-anchor="middle">40</text>
+<line x1="64.0" y1="424.0" x2="754.0" y2="424.0" stroke="#ededed"/>
+<text x="56.0" y="428.0" font-size="11" fill="#5a5a5a" text-anchor="end">0</text>
+<line x1="64.0" y1="369.0" x2="754.0" y2="369.0" stroke="#ededed"/>
+<text x="56.0" y="373.0" font-size="11" fill="#5a5a5a" text-anchor="end">1</text>
+<line x1="64.0" y1="314.0" x2="754.0" y2="314.0" stroke="#ededed"/>
+<text x="56.0" y="318.0" font-size="11" fill="#5a5a5a" text-anchor="end">2</text>
+<line x1="64.0" y1="259.0" x2="754.0" y2="259.0" stroke="#ededed"/>
+<text x="56.0" y="263.0" font-size="11" fill="#5a5a5a" text-anchor="end">3</text>
+<line x1="64.0" y1="204.0" x2="754.0" y2="204.0" stroke="#ededed"/>
+<text x="56.0" y="208.0" font-size="11" fill="#5a5a5a" text-anchor="end">4</text>
+<line x1="64.0" y1="149.0" x2="754.0" y2="149.0" stroke="#ededed"/>
+<text x="56.0" y="153.0" font-size="11" fill="#5a5a5a" text-anchor="end">5</text>
+<line x1="64.0" y1="94.0" x2="754.0" y2="94.0" stroke="#ededed"/>
+<text x="56.0" y="98.0" font-size="11" fill="#5a5a5a" text-anchor="end">6</text>
+<rect x="64.0" y="72.0" width="690.0" height="352.0" fill="none" stroke="#d8d8d8"/>
+<polyline points="74.3,101.0 91.5,195.6 108.6,237.5 125.8,262.5 143.0,279.6 160.1,292.1 177.3,301.9 194.4,309.8 211.6,316.3 228.8,321.9 245.9,326.6 263.1,330.8 280.3,334.4 297.4,337.7 314.6,340.6 331.8,343.3 348.9,345.7 366.1,347.9 383.3,349.9 400.4,351.8 417.6,353.5 434.7,355.1 451.9,356.6 469.1,358.1 486.2,359.4 503.4,360.7 520.6,361.8 537.7,363.0 554.9,364.0 572.1,365.0 589.2,366.0 606.4,366.9 623.6,367.8 640.7,368.6 657.9,369.4 675.0,370.2 692.2,370.9 709.4,371.6 726.5,372.3 743.7,372.9" fill="none" stroke="#2f6fb0" stroke-width="2.4" opacity="1.0" stroke-linejoin="round"/>
+<circle cx="74.3" cy="116.4" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="91.5" cy="206.1" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="108.6" cy="248.0" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="125.8" cy="270.1" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="143.0" cy="289.1" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="160.1" cy="296.4" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="177.3" cy="308.9" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="194.4" cy="315.5" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="211.6" cy="320.0" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="228.8" cy="327.2" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="245.9" cy="330.8" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="263.1" cy="333.7" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="280.3" cy="339.7" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="297.4" cy="342.7" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="314.6" cy="343.9" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="331.8" cy="346.4" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="348.9" cy="350.3" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="366.1" cy="352.4" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="383.3" cy="351.9" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="400.4" cy="356.7" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="417.6" cy="357.1" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="434.7" cy="358.3" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="451.9" cy="360.7" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="469.1" cy="361.8" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="486.2" cy="362.5" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="503.4" cy="363.7" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="520.6" cy="365.2" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="537.7" cy="366.5" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="554.9" cy="367.3" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="572.1" cy="368.7" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="589.2" cy="368.6" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="606.4" cy="369.5" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="623.6" cy="370.2" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="640.7" cy="372.5" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="657.9" cy="371.9" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="675.0" cy="373.1" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="692.2" cy="373.8" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="709.4" cy="374.3" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="726.5" cy="374.5" r="3.2" fill="#c2410c" opacity="0.85"/>
+<circle cx="743.7" cy="375.9" r="3.2" fill="#c2410c" opacity="0.85"/>
+<text x="220.8" y="337.9" font-size="13" fill="#1a1a1a" text-anchor="end">记 10 天：毛边 1.9 分钟</text>
+<text x="737.7" y="364.9" font-size="13" fill="#1a1a1a" text-anchor="end">记 40 天：0.9 分钟</text>
+<line x1="64.0" y1="424.0" x2="754.0" y2="424.0" stroke="#d8d8d8" stroke-width="1.4" stroke-dasharray="1 0"/>
+<text x="409.0" y="460" font-size="12.5" fill="#454545" text-anchor="middle">记了几天（用来算平均的条数 n）</text>
+<text x="16" y="248.0" font-size="12.5" fill="#454545" text-anchor="middle" transform="rotate(-90 16 248.0)">平均的毛边（分钟）</text>
+<line x1="493.0" y1="92.0" x2="515.0" y2="92.0" stroke="#2f6fb0" stroke-width="2.4"/>
+<text x="520.0" y="96.0" font-size="12" fill="#454545">公式 σ/√n</text>
+<circle cx="614.0" cy="92.0" r="3.4" fill="#c2410c"/>
+<text x="630.0" y="96.0" font-size="12" fill="#454545">真抽四千遍量出来的</text>
+<text x="738.0" y="116.0" font-size="12" fill="#7a7a7a" text-anchor="end">条数翻四倍，毛边才减半</text>
+</svg>
