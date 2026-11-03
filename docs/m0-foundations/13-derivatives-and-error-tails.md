@@ -7,7 +7,7 @@ title: 第 13 课 · 再多一块钱值不值
 **模块**：M0 数学与金融必备 ｜ **用时**：约 50 分钟，其中动手 20 分钟 ｜ **前置**：第 06、08、10、12 课
 **学完你会得到**：一个手续，用来判断"再往前一档还划不划算、最划算的是哪一档"；一句能在会上问出口的话，用来审别人给你的"敏感度"；以及把"我这个数不准"拆成两种不准，各报一个数。
 
-**想在浏览器里一格一格跟着跑？** 浏览器版在 [13-derivatives-and-error-tails.ipynb](../../notebooks/13-derivatives-and-error-tails.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。
+**想在浏览器里一格一格跟着跑？** 浏览器版在 [13-derivatives-and-error-tails.ipynb](../../notebooks/13-derivatives-and-error-tails.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。 也可以[直接在 Colab 里跑](https://colab.research.google.com/github/JavenZheng/monte-carlo-finance/blob/main/notebooks/13-derivatives-and-error-tails.ipynb)。
 
 ---
 

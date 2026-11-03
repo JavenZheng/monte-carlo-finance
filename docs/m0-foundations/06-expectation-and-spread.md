@@ -7,7 +7,7 @@ title: 第 06 课 · 期望与方差
 **模块**：M0 数学与金融必备 ｜ **用时**：约 40 分钟，其中动手 20 分钟 ｜ **前置**：第 04、05 课
 **学完你会得到**：一套能摆到桌上的方案对比法——两个数，一个回答长期，一个回答脾气。
 
-**想在浏览器里一格一格跟着跑？** 浏览器版在 [06-expectation-and-spread.ipynb](../../notebooks/06-expectation-and-spread.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。
+**想在浏览器里一格一格跟着跑？** 浏览器版在 [06-expectation-and-spread.ipynb](../../notebooks/06-expectation-and-spread.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。 也可以[直接在 Colab 里跑](https://colab.research.google.com/github/JavenZheng/monte-carlo-finance/blob/main/notebooks/06-expectation-and-spread.ipynb)。
 
 ---
 

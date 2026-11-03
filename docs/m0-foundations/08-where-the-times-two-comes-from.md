@@ -7,7 +7,7 @@ title: 第 08 课 · 乘二从哪来
 **模块**：M0 数学与金融必备 ｜ **用时**：约 40 分钟，其中动手 20 分钟 ｜ **前置**：第 07 课
 **学完你会得到**：一个你可以当场演给对方看的把握数字，以及知道它在什么情况下会说谎。
 
-**想在浏览器里一格一格跟着跑？** 浏览器版在 [08-where-the-times-two-comes-from.ipynb](../../notebooks/08-where-the-times-two-comes-from.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。
+**想在浏览器里一格一格跟着跑？** 浏览器版在 [08-where-the-times-two-comes-from.ipynb](../../notebooks/08-where-the-times-two-comes-from.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。 也可以[直接在 Colab 里跑](https://colab.research.google.com/github/JavenZheng/monte-carlo-finance/blob/main/notebooks/08-where-the-times-two-comes-from.ipynb)。
 
 ---
 

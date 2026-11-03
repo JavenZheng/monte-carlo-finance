@@ -8,7 +8,7 @@ title: 第 01 课 · 六张便利贴
 **需要准备**：六张便利贴、一支笔
 **这节课不需要电脑。**
 
-**想在手机上看这一课？** 浏览器版在 [01-six-sticky-notes.ipynb](../../notebooks/01-six-sticky-notes.ipynb)：本课故意不用电脑，那份只是给你在手机上翻页用的，末尾两格验算可以跳过。
+**想在手机上看这一课？** 浏览器版在 [01-six-sticky-notes.ipynb](../../notebooks/01-six-sticky-notes.ipynb)：本课故意不用电脑，那份只是给你在手机上翻页用的，末尾两格验算可以跳过。 也可以[直接在 Colab 里跑](https://colab.research.google.com/github/JavenZheng/monte-carlo-finance/blob/main/notebooks/01-six-sticky-notes.ipynb)。
 
 ---
 

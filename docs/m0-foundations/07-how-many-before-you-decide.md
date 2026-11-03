@@ -7,7 +7,7 @@ title: 第 07 课 · 要测多少次才敢下结论
 **模块**：M0 ｜ **用时**：约 35 分钟，其中动手约 15 分钟 ｜ **前置**：第 05、06 课
 **学完你会得到**：一个可以随身带的判断法，用来回答"我手上这几个数字，够不够支持我做这个决定"。它今晚就能用在你的通勤记录、记账本或者账号后台上。
 
-**想在浏览器里一格一格跟着跑？** 浏览器版在 [07-how-many-before-you-decide.ipynb](../../notebooks/07-how-many-before-you-decide.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。
+**想在浏览器里一格一格跟着跑？** 浏览器版在 [07-how-many-before-you-decide.ipynb](../../notebooks/07-how-many-before-you-decide.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。 也可以[直接在 Colab 里跑](https://colab.research.google.com/github/JavenZheng/monte-carlo-finance/blob/main/notebooks/07-how-many-before-you-decide.ipynb)。
 
 ---
 

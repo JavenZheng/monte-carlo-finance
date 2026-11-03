@@ -7,7 +7,7 @@ title: 第 10 课 · 为什么股价跌不成负数
 **模块**：M0 数学与金融必备 ｜ **用时**：约 45 分钟，其中动手 20 分钟 ｜ **前置**：第 08、09 课
 **学完你会得到**：一个能造出"价格"的写法（它永远不会给你负价格），以及一句能当场识破假模型的话。
 
-**想在浏览器里一格一格跟着跑？** 浏览器版在 [10-normal-and-lognormal.ipynb](../../notebooks/10-normal-and-lognormal.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。
+**想在浏览器里一格一格跟着跑？** 浏览器版在 [10-normal-and-lognormal.ipynb](../../notebooks/10-normal-and-lognormal.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。 也可以[直接在 Colab 里跑](https://colab.research.google.com/github/JavenZheng/monte-carlo-finance/blob/main/notebooks/10-normal-and-lognormal.ipynb)。
 
 ---
 

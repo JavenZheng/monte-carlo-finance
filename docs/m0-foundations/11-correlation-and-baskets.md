@@ -7,7 +7,7 @@ title: 第 11 课 · 一篮子公司为什么同天倒霉
 **模块**：M0 数学与金融必备 ｜ **用时**：约 45 分钟，其中动手 20 分钟 ｜ **前置**：第 06、08、10 课
 **学完你会得到**：一个能算的数，用来判断"你的分散是真分散还是心理安慰"；以及一条能当场挡回去的说法："我看了八天，这两件事明显相关。"
 
-**想在浏览器里一格一格跟着跑？** 浏览器版在 [11-correlation-and-baskets.ipynb](../../notebooks/11-correlation-and-baskets.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。
+**想在浏览器里一格一格跟着跑？** 浏览器版在 [11-correlation-and-baskets.ipynb](../../notebooks/11-correlation-and-baskets.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。 也可以[直接在 Colab 里跑](https://colab.research.google.com/github/JavenZheng/monte-carlo-finance/blob/main/notebooks/11-correlation-and-baskets.ipynb)。
 
 ---
 

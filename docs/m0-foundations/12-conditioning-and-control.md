@@ -7,7 +7,7 @@ title: 第 12 课 · 知道明天下雨就重估单量
 **模块**：M0 数学与金融必备 ｜ **用时**：约 50 分钟，其中动手 20 分钟 ｜ **前置**：第 06、07、09、11 课
 **学完你会得到**：一个动作——把"你已经知道的事"从随机抽签里拿出来，你的误差可以少四成；以及一条判断标准：什么样的已知信息值得动这个手。这是原书第 4 章（方差缩减）的入口，也是第一期的最高点。
 
-**想在浏览器里一格一格跟着跑？** 浏览器版在 [12-conditioning-and-control.ipynb](../../notebooks/12-conditioning-and-control.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。
+**想在浏览器里一格一格跟着跑？** 浏览器版在 [12-conditioning-and-control.ipynb](../../notebooks/12-conditioning-and-control.ipynb)：按 `Shift + Enter` 逐格运行，跑出来的数字和本课里印的逐字一致（种子钉在 7）。 也可以[直接在 Colab 里跑](https://colab.research.google.com/github/JavenZheng/monte-carlo-finance/blob/main/notebooks/12-conditioning-and-control.ipynb)。
 
 ---
 

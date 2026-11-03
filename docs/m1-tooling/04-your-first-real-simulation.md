@@ -6,7 +6,7 @@ title: 第 04 课 · 你的第一个真模拟
 
 **模块**：M-1 工具 ｜ **用时**：约 45 分钟，其中动手 30 分钟 ｜ **前置**：第 01、02、03 课
 **这节课之后**：M-1 结束。你能独立读懂并改写第 07 课那台四行计算器，也能自己造一个"还没发生过的月"。
-**不想在本地装 Python？** 这一课的浏览器版在 [notebooks/04-your-first-real-simulation.ipynb](../../notebooks/04-your-first-real-simulation.ipynb)：一格一格跟着按 `Shift + Enter`，跑出来的数字和课文里印的逐字一致。
+**不想在本地装 Python？** 这一课的浏览器版在 [notebooks/04-your-first-real-simulation.ipynb](../../notebooks/04-your-first-real-simulation.ipynb)：一格一格跟着按 `Shift + Enter`，跑出来的数字和课文里印的逐字一致。 也可以[直接在 Colab 里跑](https://colab.research.google.com/github/JavenZheng/monte-carlo-finance/blob/main/notebooks/04-your-first-real-simulation.ipynb)。
 
 ---
 
