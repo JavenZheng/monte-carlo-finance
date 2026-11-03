@@ -6,7 +6,9 @@ url: "https://javenzheng.github.io"
 markdown: kramdown
 kramdown:
   input: GFM
-  math_block_line_spacing: 1.4
+  # kramdown 默认会把 " 和 ' 变成弯引号，正文里 $f'(x)$ 这类式子会被改坏；
+  # 这里把它们映射回原来的字符本身（39 = '，34 = "）。
+  smart_quotes: ["39", "39", "34", "34"]
 
 plugins:
   - jekyll-relative-links

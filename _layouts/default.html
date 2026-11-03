@@ -4,16 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title %}{{ page.title }} ｜ {% endif %}{{ site.title }}</title>
-<meta name="description" content="{{ page.desc | default: site.description }}">
+<meta name="description" content="{{ site.description }}">
 <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
 <script>
-window.MathJax = { tex: { inlineMath: [['$', '$']], displayMath: [['$$', '$$']] }, options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'kbd'] } };
+window.MathJax = { tex: { inlineMath: [['$', '$']] }, options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'kbd'] } };
 </script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
 {% assign course = "docs/m1-tooling/01-six-sticky-notes.md|docs/m1-tooling/02-first-line-in-the-browser.md|docs/m1-tooling/03-three-things-enough.md|docs/m1-tooling/04-your-first-real-simulation.md|docs/m0-foundations/05-why-the-average-fools-you.md|docs/m0-foundations/06-expectation-and-spread.md|docs/m0-foundations/07-how-many-before-you-decide.md|docs/m0-foundations/08-where-the-times-two-comes-from.md|docs/m0-foundations/09-making-random-variables.md|docs/m0-foundations/10-normal-and-lognormal.md|docs/m0-foundations/11-correlation-and-baskets.md|docs/m0-foundations/12-conditioning-and-control.md|docs/m0-foundations/13-derivatives-and-error-tails.md|docs/m0-foundations/14-pricing-by-discounted-expectation.md|docs/m0-foundations/15-brownian-motion.md" | split: "|" %}
-{% assign here = page.path | remove: './' %}
+{% assign here = page.path %}
+{% assign idx = -1 %}
+{% for slug in course %}
+  {% if slug == here %}{% assign idx = forloop.index0 %}{% endif %}
+{% endfor %}
 
 <header class="site-head">
   <a class="brand" href="{{ '/index.html' | relative_url }}">蒙特卡洛 · 零基础职场人版</a>
@@ -24,19 +28,29 @@ window.MathJax = { tex: { inlineMath: [['$', '$']], displayMath: [['$$', '$$']] 
   {{ content }}
 </main>
 
-{% assign idx = -1 %}
-{% for slug in course %}
-  {% if slug == here %}{% assign idx = forloop.index0 %}{% endif %}
-{% endfor %}
 {% if idx >= 0 %}
 <nav class="pager">
-  {% if idx > 0 %}<a class="prev" href="{{ site.baseurl }}/{{ course[idx | minus: 1] | remove: '.md' }}.html">← 第 {{ idx }} 课</a>{% else %}<span class="prev dim"><a href="{{ '/index.html' | relative_url }}">← 回到课程目录</a></span>{% endif %}
-  {% if idx < 14 %}<a class="next" href="{{ site.baseurl }}/{{ course[idx | plus: 1] | remove: '.md' }}.html">第 {{ idx | plus: 2 }} 课 →</a>{% else %}<a class="next" href="{{ '/glossary.html' | relative_url }}">术语备忘卡 →</a>{% endif %}
+  {% if idx > 0 %}
+    {% assign n1 = idx | minus: 1 %}
+    {% assign p1 = course[n1] %}
+    {% assign no1 = p1 | split: '/' | last | slice: 0, 2 %}
+    <a class="prev" href="{{ site.baseurl }}/{{ p1 | remove: '.md' }}.html">← 第 {{ no1 }} 课</a>
+  {% else %}
+    <a class="prev" href="{{ '/index.html' | relative_url }}">← 回到课程目录</a>
+  {% endif %}
+  {% if idx < 14 %}
+    {% assign n2 = idx | plus: 1 %}
+    {% assign p2 = course[n2] %}
+    {% assign no2 = p2 | split: '/' | last | slice: 0, 2 %}
+    <a class="next" href="{{ site.baseurl }}/{{ p2 | remove: '.md' }}.html">第 {{ no2 }} 课 →</a>
+  {% else %}
+    <a class="next" href="{{ '/glossary.html' | relative_url }}">术语备忘卡 →</a>
+  {% endif %}
 </nav>
 {% endif %}
 
 <footer class="site-foot">
-  <p>正文 <strong>CC BY-NC-SA 4.0</strong>，代码 <strong>MIT</strong>，详见 <a href="{{ '/LICENSE.html' | relative_url }}">LICENSE</a>。本课程零复制原书内容，引用只到章／节层级。</p>
+  <p>正文 <strong>CC BY-NC-SA 4.0</strong>，代码 <strong>MIT</strong>，详见 <a href="{{ '/LICENSE.html' | relative_url }}">许可条款</a>。本课程零复制原书内容，引用只到章／节层级。</p>
   <p>原书是 Springer 版权作品，<strong>建议购买正版</strong>支持作者。</p>
 </footer>
 

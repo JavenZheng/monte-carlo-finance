@@ -95,7 +95,7 @@ blockquote {
 
 .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: 1.3rem 0; }
 
-table { border-collapse: collapse; width: max-content; min-width: 100%; font-size: .9rem; }
+table { border-collapse: collapse; width: 100%; font-size: .9rem; }
 
 th, td {
   border: 1px solid #dfe4ea;
@@ -103,9 +103,10 @@ th, td {
   text-align: left;
   vertical-align: top;
   line-height: 1.6;
+  overflow-wrap: anywhere;
 }
 
-th { background: #eef2f6; font-weight: 700; white-space: nowrap; }
+th { background: #eef2f6; font-weight: 700; }
 
 tr:nth-child(even) td { background: #fafbfc; }
 
@@ -113,7 +114,17 @@ img, svg { max-width: 100%; height: auto; }
 
 hr { border: 0; border-top: 1px solid #e3e8ee; margin: 2rem 0; }
 
-mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; }
+/* 公式：MathJax 排出来的式子可能比屏幕宽，让它自己横向滚动，
+   而不是把整页撑宽（手机上正文跟着一起晃是最难看的）。 */
+mjx-container {
+  display: inline-block;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  vertical-align: middle;
+}
+
+mjx-container[display="true"] { text-align: center; padding: .3rem 0; }
 
 .pager {
   display: flex;
