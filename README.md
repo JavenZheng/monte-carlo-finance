@@ -1,8 +1,3 @@
----
-title: 课程总览
-permalink: /index.html
----
-
 # 蒙特卡洛与金融工程 · 零基础职场人版
 
 **系列**：`quant-for-office-workers` ｜ **仓库**：`monte-carlo-finance`
