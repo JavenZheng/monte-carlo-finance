@@ -24,8 +24,32 @@ window.MathJax = { tex: { inlineMath: [['$', '$']] }, options: { skipHtmlTags: [
   <span class="badge">第一期 15 课已完成 ｜ 第二期（原书第 2–9 章）制作中</span>
 </header>
 
+{% comment %}
+  链接收尾：
+  1) 课文里的代码／notebook 链接会被写成站点内的静态文件地址，点开只能看到纯文本或触发下载，
+     统一换成 GitHub 源码页（有语法高亮、能直接复制）；"返回目录"指回站点首页。
+  2) 首页是 README.md 直接引入的，Pages 上的链接插件不处理 include 内容，链接会留在 xxx.md 形式，
+     这里补一次改写（本地构建已是 .html，这一步为空操作）。
+{% endcomment %}
+{% assign blob = site.repo_url | append: "/blob/main" %}
+{% assign blob_code = blob | append: "/code/" %}
+{% assign blob_nb = blob | append: "/notebooks/" %}
+{% assign site_code = site.baseurl | append: "/code/" %}
+{% assign site_nb = site.baseurl | append: "/notebooks/" %}
+{% assign site_readme = site.baseurl | append: "/README.md" %}
+{% assign site_index = '/index.html' | relative_url %}
+{% assign root_docs = 'href="' | append: site.baseurl | append: "/docs/" %}
+{% assign root_license = 'href="' | append: site.baseurl | append: "/LICENSE.html" %}
+{% assign body = content %}
+{% assign body = body | replace: site_readme, site_index %}
+{% assign body = body | replace: 'href="LICENSE.md', root_license %}
+{% assign body = body | replace: 'href="docs/', root_docs %}
+{% assign body = body | replace: site_code, blob_code %}
+{% assign body = body | replace: site_nb, blob_nb %}
+{% assign body = body | replace: '.md"', '.html"' %}
+
 <main class="page">
-  {{ content }}
+  {{ body }}
 </main>
 
 {% if idx >= 0 %}
